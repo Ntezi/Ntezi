@@ -4,7 +4,7 @@
 
 🌱 Currently, I'm learning more about data science, expanding my knowledge, and looking to collaborate on data-related projects.
 
-🔭 Be sure to check out some of my interesting repositories, such as [rate-limiter](https://github.com/ntezi/rate-limiter) and [SARating](https://github.com/ntezi/SARating), where I showcase my skills and innovative solutions.
+🔭 Be sure to check out some of my interesting repositories, such as [rate-limiter](https://github.com/ntezi/rate-limiter), [Video Storage Service](https://github.com/Ntezi/video-storage-service), and [SARating](https://github.com/ntezi/SARating), where I showcase my skills and innovative solutions.
 
 🌐 In my spare time, I enjoy spending time with my family and friends, traveling, and reading to learn new things.
 

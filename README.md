@@ -1,4 +1,4 @@
-👋 Hi, I'm Marius Ngaboyamahina, a Software Engineer based in Kigali, Rwanda. I have ten years of professional experience in software development, and I hold a Master's degree in Information Technology from the Kobe Institute of Computing.
+👋 Hi, I'm Marius Ngaboyamahina, a Senior Software Engineer based in Accra, Rwanda. I have ten years of professional experience in software development, and I hold a Master's degree in Information Technology from the Kobe Institute of Computing.
 
 💻 I specialize in software engineering, microservices architecture, and data science. Passionate about technology and problem-solving, I continuously seek new ways to improve my skills and knowledge. I'm also a strong advocate for diversity and inclusion in the tech industry.
 
